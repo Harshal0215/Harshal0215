@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is HARSHAL and I'm a  IT aspirant from Nagpur , India ..</h2>
+<h2 align="center"> Hello 👋! I’m Harshal, a passionate developer with a keen interest in  Web development, Data Science. I love exploring new technologies and continuously improving my skills. Here, you’ll find a collection of my projects, experiments, and some contributions to the open-source community.</h2>
 
 ###
 
