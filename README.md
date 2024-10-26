@@ -3,19 +3,21 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshal0215&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Harshal0215&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Harshal0215&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshal0215&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshal0215&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
@@ -41,7 +43,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgs.search.brave.com/nI494MOawmUfdlzpWpmyO3-pvib6SZLi6guc7m4s_U4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAyMS8w/OC8wNC8xMy8wNi9z/b2Z0d2FyZS1kZXZl/bG9wZXItNjUyMTcy/MF82NDAuanBn"  />
+<img align="right" height="150" src="[https://imgs.search.brave.com/nI494MOawmUfdlzpWpmyO3-pvib6SZLi6guc7m4s_U4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAyMS8w/OC8wNC8xMy8wNi9z/b2Z0d2FyZS1kZXZl/bG9wZXItNjUyMTcy/MF82NDAuanBn](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY2Y2J2bXVpYWVjNm5hbjM4dTZoNmI2ZnFjMHZsYTJkaXhxdnUybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dvsjHZc6P3oozpp9I4/giphy.webp)"  />
 
 ###
 
