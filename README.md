@@ -1,11 +1,6 @@
 <h2 align="center"> Hello 👋! I’m Harshal, a passionate developer with a keen interest in  Web development, Data Science. I love exploring new technologies and continuously improving my skills. Here, you’ll find a collection of my projects, experiments, and some contributions to the open-source community.</h2>
 
 ###
-
-![Profile Views](https://komarev.com/ghpvc/?username=Harshal0215&color=blue)
-
-
-
 ###
 
 <div align="center">
@@ -63,6 +58,7 @@
 ###
 <div align="center">
  ⭐️ From [Harshal0215](https://github.com/Harshal0215)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Harshal0215&color=blue)
 </div>
 
 ###
