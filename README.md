@@ -61,7 +61,8 @@
 </div>
 <div align="center">
  <div align="center">
- ⭐️ From [Harshal0215](https://github.com/Harshal0215)
+ ![Profile Views](https://komarev.com/ghpvc/?username=Harshal0215&color=blue)
+
 </div>
 </div>
 ###
