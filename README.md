@@ -2,7 +2,7 @@
 
 ###
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=Harshal0215&color=blue)
 
 
 
@@ -62,7 +62,7 @@
 
 ###
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Harshal0215/count.svg?"  />
+ ⭐️ From [Harshal0215](https://github.com/Harshal0215)
 </div>
 
 ###
