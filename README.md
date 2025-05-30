@@ -67,7 +67,3 @@ Brief description of the project and its purpose.
 ⭐️ From [Harshal0215](https://github.com/Harshal0215)
 ```
 
-Feel free to customize this template to better reflect your personal information, projects, and interests.
-
-
-https://youtu.be/P6iRc0P9sKo?si=-VMxGLxvJDjO4d3e
