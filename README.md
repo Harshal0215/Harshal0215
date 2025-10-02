@@ -40,15 +40,15 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshalMasram&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshal0215&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshalMasram&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshal0215&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalMasram&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0215&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -65,9 +65,9 @@
 ### 📈 Profile Views  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HarshalMasram&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Harshal0215&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-⭐️ From [Harshal Masram](https://github.com/HarshalMasram)
+⭐️ From [Harshal Masram](https://github.com/Harshal0215)
