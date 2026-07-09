@@ -136,17 +136,8 @@ goal:
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshal0215&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal0215&theme=chartreuse-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0215&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshal0215&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0215&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
@@ -154,9 +145,7 @@ goal:
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harshal0215&theme=matrix&no-frame=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Harshal0215&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -170,6 +159,11 @@ goal:
 </p>
 
 ---
+
+# My Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Harshal0215&theme=chartreuse-dark&hide_border=true" />
+</p>
 
 # 🐍 Contribution Snake
 
