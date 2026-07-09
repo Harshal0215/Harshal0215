@@ -22,37 +22,52 @@ Focus       : AWS • Terraform • Docker • Jenkins • GitHub Actions
 
 ---
 
-# 💻 About Me
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> SYSTEM PROFILE
 
-```yaml
-name: Harshal Masram
-
-currently:
-  role: DevOps Engineer
-  learning:
-    - Kubernetes
-    - Ansible
-    - Prometheus
-    - Grafana
-
-experience:
-  - AWS Cloud
-  - Infrastructure as Code
-  - Docker
-  - CI/CD Pipelines
-  - Linux Administration
-
-interested_in:
-  - Cloud Infrastructure
-  - Automation
-  - Kubernetes
-  - DevOps Culture
-  - Site Reliability Engineering
-
-goal:
-  Become a highly skilled Cloud & DevOps Engineer
+```console
+┌──────────────────────────────────────────────────────────────┐
+│ SYSTEM INITIALIZED...                                        │
+├──────────────────────────────────────────────────────────────┤
+│ USER        :: Harshal Masram                                │
+│ ROLE        :: DevOps Engineer / Cloud Engineer              │
+│ LOCATION    :: Nagpur, India                                 │
+│ STATUS      :: Looking for Internship & Full-Time Roles      │
+│ UPTIME      :: Learning 24x7 ☕                               │
+│                                                       ONLINE │
+└──────────────────────────────────────────────────────────────┘
 ```
 
+```bash
+$ cat skills.txt
+
+> AWS Cloud Infrastructure
+> Terraform (Infrastructure as Code)
+> Docker & Containerization
+> Jenkins & GitHub Actions
+> Linux Systems Administration
+> CI/CD Automation
+> Cloud Networking (VPC, IAM)
+```
+
+```bash
+$ cat learning.log
+
+[████████░░] Kubernetes
+
+[███████░░░] Ansible
+
+[██████░░░░] Prometheus
+
+[█████░░░░░] Grafana
+```
+
+```diff
++ Mission:
++ Build scalable cloud infrastructure
++ Automate everything possible
++ Continuously improve deployment pipelines
++ Keep learning every single day
+```
 ---
 
 # ⚡ Tech Arsenal
