@@ -1,16 +1,20 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Harshal Masram
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=Aspiring+DevOps+Engineer;Cloud+Engineer;AWS+%7C+Terraform+%7C+Docker;CI%2FCD+Automation+Enthusiast;Infrastructure+as+Code;Always+Learning+Something+New..." />
+# Harshal Masram
 
-<img src="https://komarev.com/ghpvc/?username=Harshal0215&label=PROFILE+VIEWS&color=00ff41&style=flat-square" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B689F0&center=true&vCenter=true&random=false&width=700&lines=Aspiring+DevOps+Engineer;Cloud+Engineer;AWS+%7C+Terraform+%7C+Docker;CI%2FCD+Automation+Enthusiast;Infrastructure+as+Code;Always+Learning+Something+New..." />
+
+<img src="https://komarev.com/ghpvc/?username=Harshal0215&label=PROFILE+VIEWS&color=b689f0&style=for-the-badge" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
 
 </div>
 
 ---
 
-```bash
+```yaml
 > whoami
 
 Name        : Harshal Masram
@@ -22,22 +26,22 @@ Focus       : AWS • Terraform • Docker • Jenkins • GitHub Actions
 
 ---
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> SYSTEM PROFILE
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"/> System Profile
 
 ```console
-┌──────────────────────────────────────────────────────────────┐
-│ SYSTEM INITIALIZED...                                        │
-├──────────────────────────────────────────────────────────────┤
-│ USER        :: Harshal Masram                                │
-│ ROLE        :: DevOps Engineer / Cloud Engineer              │
-│ LOCATION    :: Nagpur, India                                 │
-│ STATUS      :: Looking for Internship & Full-Time Roles      │
-│ UPTIME      :: Learning 24x7 ☕                               │
-│                                                       ONLINE │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║  SYSTEM INITIALIZED...                                        ║
+╠══════════════════════════════════════════════════════════════╣
+║  USER        :: Harshal Masram                                ║
+║  ROLE        :: DevOps Engineer / Cloud Engineer               ║
+║  LOCATION    :: Nagpur, India                                  ║
+║  STATUS      :: Looking for Internship & Full-Time Roles       ║
+║  UPTIME      :: Learning 24x7 ☕                                ║
+║                                                        ONLINE  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-```bash
+```yaml
 $ cat skills.txt
 
 > AWS Cloud Infrastructure
@@ -49,16 +53,13 @@ $ cat skills.txt
 > Cloud Networking (VPC, IAM)
 ```
 
-```bash
+```text
 $ cat learning.log
 
-[████████░░] Kubernetes
-
-[███████░░░] Ansible
-
-[██████░░░░] Prometheus
-
-[█████░░░░░] Grafana
+Kubernetes   [████████░░] 80%
+Ansible      [███████░░░] 70%
+Prometheus   [██████░░░░] 60%
+Grafana      [█████░░░░░] 50%
 ```
 
 ```diff
@@ -68,75 +69,67 @@ $ cat learning.log
 + Continuously improve deployment pipelines
 + Keep learning every single day
 ```
----
-
-# ⚡ Tech Arsenal
-
-### ☁️ Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-### ⚙️ DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,githubactions,linux,bash,git" />
-</p>
-
-### 💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,github,postman" />
-</p>
 
 ---
 
-# 🚀 Projects
+## ⚡ Tech Arsenal
 
-## 🔹 CI/CD Pipeline for Dockerized Two-Tier Application
+<div align="center">
 
-✔ Jenkins Pipeline
+**☁️ Cloud**
 
-✔ Docker
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
 
-✔ GitHub Webhooks
+**⚙️ DevOps**
 
-✔ Automated Build & Deployment
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,githubactions,linux,bash,git&theme=dark" />
 
-✔ Continuous Integration
+**💻 Programming**
 
----
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css&theme=dark" />
 
-## 🔹 AWS Serverless Static Website
+**🗄️ Database**
 
-✔ Amazon S3
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 
-✔ CloudFront
+**🛠 Tools**
 
-✔ Route53
+<img src="https://skillicons.dev/icons?i=vscode,github,postman&theme=dark" />
 
-✔ ACM
-
-✔ Terraform
-
-✔ Infrastructure as Code
+</div>
 
 ---
 
-## 🔹 Infrastructure Automation
+## 🚀 Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🔹 CI/CD Pipeline for Dockerized Two-Tier App
+
+- ✔ Jenkins Pipeline
+- ✔ Docker
+- ✔ GitHub Webhooks
+- ✔ Automated Build & Deployment
+- ✔ Continuous Integration
+
+</td>
+<td width="50%" valign="top">
+
+### 🔹 AWS Serverless Static Website
+
+- ✔ Amazon S3
+- ✔ CloudFront
+- ✔ Route53
+- ✔ ACM
+- ✔ Terraform / IaC
+
+</td>
+</tr>
+</table>
+
+### 🔹 Infrastructure Automation
 
 - Terraform Modules
 - VPC
@@ -148,49 +141,46 @@ $ cat learning.log
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshal0215&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0215&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshal0215&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0d1117&title_color=b689f0&icon_color=7dd3fc&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0215&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b689f0&text_color=c9d1d9" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Harshal0215&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Harshal0215&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshal0215&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshal0215&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=b689f0&line=7dd3fc&point=ffffff"/>
 </p>
 
 ---
 
-# My Streak
+## 🔥 My Streak
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Harshal0215&theme=chartreuse-dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Harshal0215&theme=tokyonight&hide_border=true&background=0D1117&ring=B689F0&fire=7DD3FC&currStreakLabel=B689F0" />
 </p>
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 ```text
 ☁ Kubernetes
@@ -203,49 +193,41 @@ $ cat learning.log
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
-- Master Kubernetes
-- Learn GitOps with ArgoCD
-- Earn AWS Solutions Architect Associate
-- Build Production-Ready DevOps Projects
-- Contribute to Open Source
-- Land a DevOps Engineer Role
+- [ ] Master Kubernetes
+- [ ] Learn GitOps with ArgoCD
+- [ ] Earn AWS Solutions Architect Associate
+- [ ] Build Production-Ready DevOps Projects
+- [ ] Contribute to Open Source
+- [ ] Land a DevOps Engineer Role
 
 ---
 
-# ⚡ DevOps Philosophy
+## ⚡ DevOps Philosophy
 
 ```text
 Automate Everything.
-
 Version Everything.
-
 Monitor Everything.
-
 Document Everything.
-
 Keep Learning.
 ```
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <p align="left">
-
 <a href="https://github.com/Harshal0215">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" />
 </a>
-
 <a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
 </a>
-
 <a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
 </a>
-
 </p>
 
 ---
@@ -266,5 +248,7 @@ Status: ONLINE ✅
 ### ⭐ Thanks for visiting my profile!
 
 *"First, solve the problem. Then, automate it."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
