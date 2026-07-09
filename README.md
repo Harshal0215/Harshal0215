@@ -1,73 +1,261 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Harshal+Masram;Aspiring+Web+Developer;Full+Stack+Developer;MERN+Stack+Enthusiast;Always+learning+new+things!">
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Harshal Masram
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=700&lines=Aspiring+DevOps+Engineer;Cloud+Engineer;AWS+%7C+Terraform+%7C+Docker;CI%2FCD+Automation+Enthusiast;Infrastructure+as+Code;Always+Learning+Something+New..." />
+
+<img src="https://komarev.com/ghpvc/?username=Harshal0215&label=PROFILE+VIEWS&color=00ff41&style=flat-square" />
+
+</div>
+
+---
+
+```bash
+> whoami
+
+Name        : Harshal Masram
+Role        : DevOps Engineer | Cloud Engineer
+Location    : Nagpur, India
+Status      : Open to Internship & Entry-Level Opportunities
+Focus       : AWS • Terraform • Docker • Jenkins • GitHub Actions
+```
+
+---
+
+# 💻 About Me
+
+```yaml
+name: Harshal Masram
+
+currently:
+  role: DevOps Engineer
+  learning:
+    - Kubernetes
+    - Ansible
+    - Prometheus
+    - Grafana
+
+experience:
+  - AWS Cloud
+  - Infrastructure as Code
+  - Docker
+  - CI/CD Pipelines
+  - Linux Administration
+
+interested_in:
+  - Cloud Infrastructure
+  - Automation
+  - Kubernetes
+  - DevOps Culture
+  - Site Reliability Engineering
+
+goal:
+  Become a highly skilled Cloud & DevOps Engineer
+```
+
+---
+
+# ⚡ Tech Arsenal
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### ⚙️ DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,githubactions,linux,bash,git" />
+</p>
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,github,postman" />
 </p>
 
 ---
 
-### 🌟 About Me  
-💻 Aspiring **Web Developer & Full Stack Developer** with a strong foundation in MERN stack, Java, and cloud concepts.  
-🚀 Passionate about building scalable, user-friendly applications.  
-🎯 Open to opportunities in **Web Development, IT, and Cloud Computing**.  
+# 🚀 Projects
+
+## 🔹 CI/CD Pipeline for Dockerized Two-Tier Application
+
+✔ Jenkins Pipeline
+
+✔ Docker
+
+✔ GitHub Webhooks
+
+✔ Automated Build & Deployment
+
+✔ Continuous Integration
 
 ---
 
-### 🛠️ Tech Stack & Tools  
+## 🔹 AWS Serverless Static Website
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <!-- Other -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+✔ Amazon S3
+
+✔ CloudFront
+
+✔ Route53
+
+✔ ACM
+
+✔ Terraform
+
+✔ Infrastructure as Code
 
 ---
 
-### 📊 GitHub Stats  
+## 🔹 Infrastructure Automation
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshal0215&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshal0215&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0215&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- Terraform Modules
+- VPC
+- IAM
+- EC2
+- Security Groups
+- S3
+- Remote State
 
 ---
 
-### 🌐 Connect With Me  
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshal-masram-1875a31a3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://myportfoliohvm.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harshal0215&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal0215&theme=chartreuse-dark&hide_border=true"/>
+
 </p>
 
----
-
-### 📈 Profile Views  
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harshal0215&color=brightgreen&style=flat-square" alt="Profile Views" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0215&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-⭐️ From [Harshal Masram](https://github.com/Harshal0215)
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Harshal0215&theme=matrix&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshal0215&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+☁ Kubernetes
+☁ Ansible
+☁ Prometheus
+☁ Grafana
+☁ Advanced AWS Networking
+☁ GitOps
+```
+
+---
+
+# 🎯 2026 Goals
+
+- Master Kubernetes
+- Learn GitOps with ArgoCD
+- Earn AWS Solutions Architect Associate
+- Build Production-Ready DevOps Projects
+- Contribute to Open Source
+- Land a DevOps Engineer Role
+
+---
+
+# ⚡ DevOps Philosophy
+
+```text
+Automate Everything.
+
+Version Everything.
+
+Monitor Everything.
+
+Document Everything.
+
+Keep Learning.
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://github.com/Harshal0215">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+```console
+$ uptime
+
+Building cloud infrastructure...
+Deploying containers...
+Automating workflows...
+Learning every day...
+
+Status: ONLINE ✅
+```
+
+### ⭐ Thanks for visiting my profile!
+
+*"First, solve the problem. Then, automate it."*
+
+</div>
