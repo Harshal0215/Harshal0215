@@ -1,33 +1,9 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=2E2E2E&center=true&vCenter=true&width=600&lines=Harshal+Masram" />
-
-<sub>DevOps Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Cloud Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Nagpur, India</sub>
-
-<br/>
-
-<img src="https://img.shields.io/badge/status-open_to_internship_%2F_entry--level-000000?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=Harshal0215&label=views&color=000000&style=flat-square" />
-
-</div>
-
-<br/>
-
-```
-whoami
-──────────────────────────────────────────────
-Name       Harshal Masram
-Role       DevOps Engineer / Cloud Engineer
-Location   Nagpur, India
-Status     Open to Internship & Entry-Level Roles
-Focus      AWS · Terraform · Docker · Jenkins · GitHub Actions
-```
 
 <br/>
 
 ## Skills
 
-```
+```bash
 AWS Cloud Infrastructure
 Terraform (Infrastructure as Code)
 Docker & Containerization
@@ -41,9 +17,8 @@ Cloud Networking (VPC, IAM)
 
 ## Currently Learning
 
-```
-Kubernetes    ████████░░  80%
-Ansible       ███████░░░  70%
+```bash
+Kubernetes    ████████░░  30%
 Prometheus    ██████░░░░  60%
 Grafana       █████░░░░░  50%
 ```
@@ -101,16 +76,16 @@ Grafana       █████░░░░░  50%
 ## GitHub Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Harshal0215&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default&hide_title=false&bg_color=00000000&title_color=2E2E2E&icon_color=555555&text_color=2E2E2E" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0215&layout=compact&hide_border=true&theme=default&bg_color=00000000&title_color=2E2E2E&text_color=2E2E2E" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Harshal0215&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_title=false&bg_color=00000000&title_color=7AA2F7&icon_color=7AA2F7&text_color=C0CAF5" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0215&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=7AA2F7&text_color=C0CAF5" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal0215&hide_border=true&background=00000000&ring=2E2E2E&fire=2E2E2E&currStreakLabel=2E2E2E&sideNums=2E2E2E&currStreakNum=2E2E2E&sideLabels=2E2E2E&dates=888888" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal0215&hide_border=true&theme=tokyonight&background=00000000&ring=7AA2F7&fire=7AA2F7&currStreakLabel=7AA2F7&sideNums=C0CAF5&currStreakNum=C0CAF5&sideLabels=C0CAF5&dates=8892B0" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshal0215&hide_border=true&bg_color=00000000&color=2E2E2E&line=2E2E2E&point=000000&area=true&area_color=2E2E2E" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshal0215&hide_border=true&bg_color=00000000&color=7AA2F7&line=7AA2F7&point=1F2335&area=true&area_color=7AA2F7" />
 </p>
 
 <br/>
@@ -128,7 +103,7 @@ Grafana       █████░░░░░  50%
 
 ## Philosophy
 
-```
+```bash
 Automate Everything.
 Version Everything.
 Monitor Everything.
@@ -141,9 +116,9 @@ Keep Learning.
 ## Connect
 
 <p align="left">
-<a href="https://github.com/Harshal0215"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Harshal0215"><img src="https://img.shields.io/badge/GitHub-1F2335?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-1F2335?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-1F2335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br/>
