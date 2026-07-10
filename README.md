@@ -1,180 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00F0FF,100:FF00E5&height=150&section=header&text=HARSHAL%20MASRAM&fontColor=0D0221&fontSize=42&fontAlignY=38&animation=twinkling" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=26&pause=1200&color=2E2E2E&center=true&vCenter=true&width=600&lines=Harshal+Masram" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=00F0FF&background=0D021100&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING_DEVOPS.EXE;%3E+AWS+%7C+TERRAFORM+%7C+DOCKER;%3E+CI%2FCD+AUTOMATION+ONLINE;%3E+INFRASTRUCTURE_AS_CODE;%3E+STATUS%3A+ALWAYS_LEARNING" />
+<sub>DevOps Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Cloud Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Nagpur, India</sub>
 
-<img src="https://img.shields.io/badge/PROFILE_VIEWS-000000?style=for-the-badge&logo=vercel&logoColor=FF00E5&color=0D0221" /> <img src="https://komarev.com/ghpvc/?username=Harshal0215&label=&color=ff00e5&style=for-the-badge" height="28"/>
+<br/>
+
+<img src="https://img.shields.io/badge/status-open_to_internship_%2F_entry--level-000000?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Harshal0215&label=views&color=000000&style=flat-square" />
 
 </div>
+
+<br/>
+
+```
+whoami
+──────────────────────────────────────────────
+Name       Harshal Masram
+Role       DevOps Engineer / Cloud Engineer
+Location   Nagpur, India
+Status     Open to Internship & Entry-Level Roles
+Focus      AWS · Terraform · Docker · Jenkins · GitHub Actions
+```
+
+<br/>
+
+## Skills
+
+```
+AWS Cloud Infrastructure
+Terraform (Infrastructure as Code)
+Docker & Containerization
+Jenkins & GitHub Actions
+Linux Systems Administration
+CI/CD Automation
+Cloud Networking (VPC, IAM)
+```
+
+<br/>
+
+## Currently Learning
+
+```
+Kubernetes    ████████░░  80%
+Ansible       ███████░░░  70%
+Prometheus    ██████░░░░  60%
+Grafana       █████░░░░░  50%
+```
+
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
-`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,githubactions,linux,bash,git" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,mysql,mongodb" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vscode,github,postman" />
 
 </div>
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="26"/> ⟨ IDENTITY_MATRIX ⟩
-
-```ansi
-[0;35m╔═══════════════════════════════════════════════════════════════╗[0m
-[0;36m║[0m  [1;35mNAME[0m       :: Harshal Masram                                   [0;36m║[0m
-[0;36m║[0m  [1;35mROLE[0m       :: DevOps Engineer // Cloud Engineer                [0;36m║[0m
-[0;36m║[0m  [1;35mLOCATION[0m   :: Nagpur, India                                    [0;36m║[0m
-[0;36m║[0m  [1;35mSTATUS[0m     :: Open to Internship & Entry-Level Roles           [0;36m║[0m
-[0;36m║[0m  [1;35mFOCUS[0m      :: AWS • Terraform • Docker • Jenkins • Actions    [0;36m║[0m
-[0;35m╚═══════════════════════════════════════════════════════════════╝[0m
-```
-
----
-
-## ⟨ SKILL_INJECTION ⟩
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS_CLOUD_INFRA-0D0221?style=for-the-badge&logo=amazonaws&logoColor=00F0FF&labelColor=0D0221)
-![Terraform](https://img.shields.io/badge/TERRAFORM_IaC-0D0221?style=for-the-badge&logo=terraform&logoColor=FF00E5&labelColor=0D0221)
-![Docker](https://img.shields.io/badge/DOCKER-0D0221?style=for-the-badge&logo=docker&logoColor=00F0FF&labelColor=0D0221)
-![Jenkins](https://img.shields.io/badge/JENKINS-0D0221?style=for-the-badge&logo=jenkins&logoColor=FF00E5&labelColor=0D0221)
-![GHA](https://img.shields.io/badge/GITHUB_ACTIONS-0D0221?style=for-the-badge&logo=githubactions&logoColor=00F0FF&labelColor=0D0221)
-![Linux](https://img.shields.io/badge/LINUX_SYSADMIN-0D0221?style=for-the-badge&logo=linux&logoColor=FF00E5&labelColor=0D0221)
-![Networking](https://img.shields.io/badge/CLOUD_NETWORKING-0D0221?style=for-the-badge&logo=cisco&logoColor=00F0FF&labelColor=0D0221)
-
-</div>
-
-```yaml
-$ ./learning.log --scan
-
-Kubernetes    ▓▓▓▓▓▓▓▓░░  80%  [ACTIVE]
-Ansible       ▓▓▓▓▓▓▓░░░  70%  [ACTIVE]
-Prometheus    ▓▓▓▓▓▓░░░░  60%  [ACTIVE]
-Grafana       ▓▓▓▓▓░░░░░  50%  [ACTIVE]
-```
-
-```diff
-+ MISSION_LOG:
-+ > Build scalable cloud infrastructure
-+ > Automate everything possible
-+ > Continuously improve deployment pipelines
-+ > Keep learning every single day
-```
-
----
-
-## ⟨ TECH_ARSENAL ⟩
-
-<div align="center">
-
-**☁️ CLOUD**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" />
 
-**⚙️ DEVOPS**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,githubactions,linux,bash,git&theme=dark" />
-
-**💻 PROGRAMMING**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css&theme=dark" />
-
-**🗄️ DATABASE**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-
-**🛠️ TOOLS**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,github,postman&theme=dark" />
-
-</div>
-
----
-
-## ⟨ DEPLOYED_PROJECTS ⟩
+## Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔮 CI/CD Pipeline — Dockerized Two-Tier App
+**CI/CD Pipeline — Dockerized Two-Tier App**
 
-- ✔ Jenkins Pipeline
-- ✔ Docker
-- ✔ GitHub Webhooks
-- ✔ Automated Build & Deployment
-- ✔ Continuous Integration
+- Jenkins Pipeline
+- Docker
+- GitHub Webhooks
+- Automated Build & Deployment
+- Continuous Integration
 
 </td>
 <td width="50%" valign="top">
 
-### 🔮 AWS Serverless Static Website
+**AWS Serverless Static Website**
 
-- ✔ Amazon S3
-- ✔ CloudFront
-- ✔ Route53
-- ✔ ACM
-- ✔ Terraform / IaC
+- Amazon S3
+- CloudFront
+- Route53
+- ACM
+- Terraform / IaC
 
 </td>
 </tr>
 </table>
 
-### 🔮 Infrastructure Automation
+**Infrastructure Automation**
+`Terraform Modules` `VPC` `IAM` `EC2` `Security Groups` `S3` `Remote State`
 
-`Terraform Modules` · `VPC` · `IAM` · `EC2` · `Security Groups` · `S3` · `Remote State`
+<br/>
 
----
-
-## ⟨ ANALYTICS_FEED ⟩
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshal0215&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0215&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=c9d1d9" />
-</p>
-
----
-
-## ⟨ TROPHY_CASE ⟩
+## GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Harshal0215&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Harshal0215&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default&hide_title=false&bg_color=00000000&title_color=2E2E2E&icon_color=555555&text_color=2E2E2E" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal0215&layout=compact&hide_border=true&theme=default&bg_color=00000000&title_color=2E2E2E&text_color=2E2E2E" />
 </p>
-
----
-
-## ⟨ ACTIVITY_STREAM ⟩
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshal0215&theme=react-dark&hide_border=true&bg_color=0D0221&color=00F0FF&line=FF00E5&point=ffffff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal0215&hide_border=true&background=00000000&ring=2E2E2E&fire=2E2E2E&currStreakLabel=2E2E2E&sideNums=2E2E2E&currStreakNum=2E2E2E&sideLabels=2E2E2E&dates=888888" />
 </p>
-
-## ⟨ STREAK_CORE ⟩
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Harshal0215&theme=radical&hide_border=true&background=0D0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshal0215&hide_border=true&bg_color=00000000&color=2E2E2E&line=2E2E2E&point=000000&area=true&area_color=2E2E2E" />
 </p>
 
-## ⟨ SNAKE_PROTOCOL ⟩
+<br/>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## ⟨ NOW_LOADING ⟩
-
-```yaml
-kubernetes:          [ IN_PROGRESS ]
-ansible:              [ IN_PROGRESS ]
-prometheus:           [ IN_PROGRESS ]
-grafana:              [ IN_PROGRESS ]
-advanced_aws_networking: [ IN_PROGRESS ]
-gitops:               [ QUEUED ]
-```
-
----
-
-## ⟨ 2026_TARGETS ⟩
+## 2026 Goals
 
 - [ ] Master Kubernetes
 - [ ] Learn GitOps with ArgoCD
@@ -183,53 +124,30 @@ gitops:               [ QUEUED ]
 - [ ] Contribute to Open Source
 - [ ] Land a DevOps Engineer Role
 
----
+<br/>
 
-## ⟨ CORE_PHILOSOPHY ⟩
+## Philosophy
 
-```text
-> AUTOMATE EVERYTHING.
-> VERSION EVERYTHING.
-> MONITOR EVERYTHING.
-> DOCUMENT EVERYTHING.
-> KEEP LEARNING.
+```
+Automate Everything.
+Version Everything.
+Monitor Everything.
+Document Everything.
+Keep Learning.
 ```
 
----
+<br/>
 
-## ⟨ ESTABLISH_UPLINK ⟩
+## Connect
 
 <p align="left">
-<a href="https://github.com/Harshal0215">
-<img src="https://img.shields.io/badge/GITHUB-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D0221?style=for-the-badge&logo=linkedin&logoColor=FF00E5" />
-</a>
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/EMAIL-0D0221?style=for-the-badge&logo=gmail&logoColor=00F0FF" />
-</a>
+<a href="https://github.com/Harshal0215"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<br/>
 
 <div align="center">
-
-```yaml
-$ uptime --status
-
-Building cloud infrastructure...
-Deploying containers...
-Automating workflows...
-Learning every day...
-
-STATUS: ONLINE ✅
-```
-
-### ⚡ Thanks for jacking into my profile
-
-*"First, solve the problem. Then, automate it."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00F0FF,100:FF00E5&height=100&section=footer" width="100%"/>
-
+<sub>"First, solve the problem. Then, automate it."</sub>
 </div>
