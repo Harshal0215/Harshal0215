@@ -269,11 +269,9 @@ Stack
 
 > **Enable the GitHub Action after creating your profile repository.**
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Harshal0215/Harshal0215/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harshal0215/Harshal0215/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
