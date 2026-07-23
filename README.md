@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:1e3a8a,50:3b82f6,75:6366f1,100:8b5cf6&text=HarshByte&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Cloud%20%7C%20DevOps%20%7C%20Automation&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:1e3a8a,50:3b82f6,75:6366f1,100:8b5cf6&text=Harshal_Masram&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Cloud%20%7C%20DevOps%20%7C%20Automation&descAlignY=58"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=☁️+Self-Driven+Cloud+%26+DevOps+Enthusiast;⚡+Building+Reliable+Infrastructure;🚀+Automating+Everything+Possible;🐳+Docker+%7C+Terraform+%7C+Kubernetes;☁️+AWS+%7C+Azure+%7C+Google+Cloud;💡+Always+Learning+Something+New"/>
 
@@ -31,7 +31,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hey, I'm Harshal Masram
 
 ```yaml
-Alias      : HarshByte
+Alias      : Harshal404
 Role       : Self-Driven Cloud & DevOps Enthusiast
 Focus      : Cloud Architecture • Automation • Infrastructure as Code
 Location   : India 🇮🇳
@@ -71,28 +71,136 @@ I enjoy solving infrastructure challenges more than UI bugs ☕
 ## ☁️ Cloud Platforms
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp"/>
+</p>
+
+---
+
+## 🚀 DevOps & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,jenkins,githubactions,bash,linux"/>
+</p>
+
+---
+
+## 💻 Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode"/>
+</p>
+
+---
+
+## 📦 Containers & Orchestration
+
+<p>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🚀 DevOps
+## 🔧 Infrastructure as Code
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,ansible,linux,bash,githubactions"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible"/>
+<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws"/>
 
 </p>
 
 ---
 
-## 💻 Development
+## ⚙️ CI/CD
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git,github,vscode"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo"/>
+
+</p>
+
+---
+
+## 📊 Monitoring & Logging
+
+<p>
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana"/>
+<img src="https://img.shields.io/badge/ELK-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Loki-F2C811?style=for-the-badge&logo=grafana"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+</p>
+
+---
+
+## 🌐 Networking & Web
+
+<p>
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache"/>
+<img src="https://img.shields.io/badge/DNS-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Load_Balancing-FF9900?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🔐 Cloud & Security
+
+<p>
+
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Secrets_Manager-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSL/TLS-0A66C2?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄️ Databases & Storage
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
+</p>
+
+---
+
+## 🛠️ Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,bash"/>
+
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+<p>
+
+<img src="https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Terraform_Cloud-7B42BC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Platform_Engineering-6A5ACD?style=for-the-badge"/>
 
 </p>
 
